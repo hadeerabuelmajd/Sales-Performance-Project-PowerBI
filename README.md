@@ -39,13 +39,13 @@ Power BI · Power Query · Data Modeling · DAX · Custom Theme (JSON) · Dashbo
 ## 4. Dashboard
 
 **Page 1: Overview** - KPIs, net sales vs target by month, 2025 vs 2026 on shared months.
-<p align="center"><img src="Images/overview.png" alt="Overview" width="100%" /></p>
+<p align="center"><img src="Images/Overview.png" alt="Overview" width="100%" /></p>
 
 **Page 2: Product & Profitability** - discount impact on margin and quantity, margin by category, top products by units.
-<p align="center"><img src="Images/product_profitability.png" alt="Product and Profitability" width="100%" /></p>
+<p align="center"><img src="Images/product&profitability.png" alt="Product and Profitability" width="100%" /></p>
 
 **Page 3: Market & Customer** - top customers, regions, channels, segments.
-<p align="center"><img src="Images/market_customer.png" alt="Market and Customer" width="100%" /></p>
+<p align="center"><img src="Images/market&customer.png" alt="Market and Customer" width="100%" /></p>
 
 ## 5. Key Calculations
 
